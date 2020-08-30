@@ -1,0 +1,13 @@
+{
+"language":"čestina",
+"window_title":"Karlův labyrint",
+"menu_choose_level":"Vybrat úroveň",
+"edit_code_messagge":"sem vepiš kód",
+"run_button_label":"spustit",
+"reset_button_label":"resetovat",
+"stop_button_label":"stop",
+"wall_crash_title":"Au!",
+"wall_crash_messagge":"Karel narazil do zdi",
+"win_title":"Hurá!",
+"win_messagge":"Karel došel do cíle"
+}

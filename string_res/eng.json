@@ -1,0 +1,13 @@
+{
+"language":"english",
+"window_title":"Karl's labyrinth",
+"menu_choose_level":"Choose level",
+"edit_code_messagge":"write code here",
+"run_button_label":"run",
+"reset_button_label":"reset",
+"stop_button_label":"stop",
+"wall_crash_title":"Auch!",
+"wall_crash_messagge":"Karel crashed into the wall",
+"win_title":"Hurray!",
+"win_messagge":"Karel reached the goal"
+}
